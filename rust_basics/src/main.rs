@@ -6,8 +6,8 @@ fn main() {
     // we cannot change the value it is immutable
 
     // we have to add mut keyword to change the value of the variable
-    let mut a = 24;
-    a = 25;
+    let  a = 24;
+    let a = 25;
     println!("The Number : {a}");
 
     //const must have its type we can't declare const without its type 
