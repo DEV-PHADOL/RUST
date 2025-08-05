@@ -8,7 +8,7 @@ fn main() {
     // we have to add mut keyword to change the value of the variable
     let mut a = 24;
     a = 25;
-    println!("The Number is : {a}");
+    println!("The Number : {a}");
 
     //const must have its type we can't declare const without its type 
     const AB : u8 = 10;
